@@ -1,2 +1,5 @@
-# JavaScriptHelperFunctions
-JavaScript Helper Functions
+🍭 Sweet 🍭 Java Script Helper Functions
+
+Available now:
+
+🍩 hasChangedInLast24Hours(stringDate);
