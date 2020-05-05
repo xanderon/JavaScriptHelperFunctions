@@ -1,0 +1,2 @@
+# JavaScriptHelperFunctions
+JavaScript Helper Functions
